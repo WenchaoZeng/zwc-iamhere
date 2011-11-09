@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>我在这API</title>
+</head>
+<body>
+    <p>
+API绝对简单, 跨平台.</p>
+    <p>
+        调用地址: <a href="http://zwc.name/IAmHere/API/submit.ashx">http://zwc.name/IAmHere/API/submit.ashx</a>
+    </p>
+    <p>
+        参数:<br />
+        room, 房间的名称. 必须的.<br />
+        name, 自己的名字<br />
+        x,自己位置的x坐标(经度)<br />
+        y, 自己位置的y坐标(纬度)<br />
+        示例:<br />
+        http://zwc.name/IAmHere/API/submit.ashx?room=root&amp;name=曾文超&amp;x=31.004999&amp;y=121.4086<br />
+    </p>
+    <p>
+        返回:<br />
+        用户列表. 每行一个用户.每行3个数据, 用户名, x坐标, y坐标. 用逗号隔开.<br />
+        示例:<br />
+        zwc,1,2<br />
+        zwc2,2,3<br />
+        曾文超,31.004999,121.4086</p>
+</body>
+</html>
