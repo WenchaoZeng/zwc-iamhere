@@ -1,0 +1,10 @@
+D:\Working\Asp.net Projects\IAmHere\IAmHere\bin\IAmHere.dll
+D:\Working\Asp.net Projects\IAmHere\IAmHere\bin\IAmHere.pdb
+D:\Working\Asp.net Projects\IAmHere\IAmHere\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\Asp.net Projects\IAmHere\IAmHere\obj\Debug\IAmHere.dll
+D:\Working\Asp.net Projects\IAmHere\IAmHere\obj\Debug\IAmHere.pdb
+D:\Working\IAmHere\IAmHere\bin\IAmHere.dll
+D:\Working\IAmHere\IAmHere\bin\IAmHere.pdb
+D:\Working\IAmHere\IAmHere\obj\Debug\ResolveAssemblyReference.cache
+D:\Working\IAmHere\IAmHere\obj\Debug\IAmHere.dll
+D:\Working\IAmHere\IAmHere\obj\Debug\IAmHere.pdb
